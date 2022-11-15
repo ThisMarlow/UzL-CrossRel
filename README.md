@@ -1,6 +1,6 @@
 # UzL-CrossRel
 
-###Cross-Reality Übung 1
+### Cross-Reality Übung 1
 Multiplanetarer Basketball Simulator
 
 - Simon Alers
@@ -8,5 +8,5 @@ Multiplanetarer Basketball Simulator
 - Paul Siraf
 - Philipp Uesbeck
 
-## How to start
+### How to start
 JUST PRESS PLAY
