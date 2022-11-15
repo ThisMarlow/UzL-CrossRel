@@ -128,7 +128,7 @@ namespace Oculus.Interaction
         public void ApplyVelocities(Vector3 linearVelocity, Vector3 angularVelocity)
         {
             _hasPendingForce = true;
-            _linearVelocity = linearVelocity;
+            _linearVelocity = 1.5f*linearVelocity;
             _angularVelocity = angularVelocity;
         }
 
